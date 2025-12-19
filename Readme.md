@@ -46,8 +46,6 @@ personal translation history.
 
 ---
 
-## 📁 Project Structure
-
 TranslateHub/
 ├── frontend/
 │ └── src/
@@ -60,7 +58,6 @@ TranslateHub/
 │ └── package.json
 │
 └── README.md
-
 
 ---
 
