@@ -49,12 +49,11 @@ personal translation history.
 ## 📁 Project Structure
 
 TranslateHub/
-│
 ├── frontend/
-│ ├── src/
-│ │ ├── TranslationPlatform.jsx
-│ │ ├── styles.css
-│ │ └── main.jsx
+│ └── src/
+│ ├── TranslationPlatform.jsx
+│ ├── styles.css
+│ └── main.jsx
 │
 ├── backend/
 │ ├── server.js
